@@ -8,8 +8,9 @@
 # hlsearch on (H) or off (h):
 ~H
 # コマンドライン 項目の履歴 (新しいものから古いものへ):
-:wq
 :q
+:wq
+:wqw
 :set number
 
 # 検索文字列 項目の履歴 (新しいものから古いものへ):
@@ -23,13 +24,17 @@
 # レジスタ:
 
 # ファイルマーク:
-'0  4  11  ~/phpfile/index.php
-'1  51  24  ~/.bash_history
-'2  52  0  ~/.bash_history
-'3  1  0  ~/phpfile/index.php
+'0  4  0  ~/phpfile/index.php
+'1  1  63  ~/.git/COMMIT_EDITMSG
+'2  1  0  ~/.viminfo
+'3  51  24  ~/.bash_history
+'4  52  0  ~/.bash_history
+'5  1  0  ~/phpfile/index.php
 
 # ジャンプリスト (新しいものが先):
--'  4  11  ~/phpfile/index.php
+-'  4  0  ~/phpfile/index.php
+-'  1  63  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.viminfo
 -'  1  0  ~/phpfile/index.php
 -'  51  24  ~/.bash_history
 -'  52  0  ~/.bash_history
@@ -37,14 +42,88 @@
 -'  51  24  ~/.bash_history
 -'  52  0  ~/.bash_history
 -'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  1  0  ~/.viminfo
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  1  63  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.viminfo
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
 
 # ファイル内マークの履歴 (新しいものから古いもの):
 
 > ~/phpfile/index.php
-	"	4	11
+	"	4	0
 	^	4	12
 	.	4	11
 	+	4	11
+
+> ~/.git/COMMIT_EDITMSG
+	"	1	63
+	^	1	66
+	.	1	63
+	+	1	63
+
+> ~/.viminfo
+	"	1	0
 
 > ~/.bash_history
 	"	51	24
