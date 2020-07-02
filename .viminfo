@@ -24,14 +24,17 @@
 # レジスタ:
 
 # ファイルマーク:
-'0  4  0  ~/phpfile/index.php
-'1  1  63  ~/.git/COMMIT_EDITMSG
-'2  1  0  ~/.viminfo
-'3  51  24  ~/.bash_history
-'4  52  0  ~/.bash_history
-'5  1  0  ~/phpfile/index.php
+'0  3  0  ~/first/README.md
+'1  4  0  ~/phpfile/index.php
+'2  1  63  ~/.git/COMMIT_EDITMSG
+'3  1  0  ~/.viminfo
+'4  51  24  ~/.bash_history
+'5  52  0  ~/.bash_history
+'6  1  0  ~/phpfile/index.php
 
 # ジャンプリスト (新しいものが先):
+-'  3  0  ~/first/README.md
+-'  1  0  ~/first/README.md
 -'  4  0  ~/phpfile/index.php
 -'  1  63  ~/.git/COMMIT_EDITMSG
 -'  1  0  ~/.viminfo
@@ -107,8 +110,34 @@
 -'  1  0  ~/.bash_history
 -'  51  24  ~/.bash_history
 -'  52  0  ~/.bash_history
+-'  1  63  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.viminfo
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  51  24  ~/.bash_history
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
 
 # ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/first/README.md
+	"	3	0
+	^	3	10
+	.	3	9
+	+	3	9
 
 > ~/phpfile/index.php
 	"	4	0
