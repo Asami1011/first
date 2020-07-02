@@ -1,0 +1,11 @@
+[user]
+	name = Asami.Igarashi
+	email = kuutan.ranran.1011@gmail.com
+[push]
+	default = matching
+[alias]
+	co = checkout
+[core]
+	editor = vim -c \"set fenc=utf-8\"
+[color]
+	ui = true
