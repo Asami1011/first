@@ -22,11 +22,22 @@
 # レジスタ:
 
 # ファイルマーク:
-'0  2  0  ~/.git/COMMIT_EDITMSG
-'1  32  0  ~/.viminfo
-'2  1  0  ~/first/README.md
+'0  3  36  ~/.ssh/config
+'1  1  0  ~/.ssh/id_rsa_github.pub
+'2  1  0  ~/.ssh/id_rsa_github
+'3  1  0  ~/.ssh/known_hosts
+'4  1  0  ~/.ssh/authorized_keys
+'5  2  0  ~/.git/COMMIT_EDITMSG
+'6  32  0  ~/.viminfo
+'7  1  0  ~/first/README.md
 
 # ジャンプリスト (新しいものが先):
+-'  3  36  ~/.ssh/config
+-'  1  0  ~/.ssh/config
+-'  1  0  ~/.ssh/id_rsa_github.pub
+-'  1  0  ~/.ssh/id_rsa_github
+-'  1  0  ~/.ssh/known_hosts
+-'  1  0  ~/.ssh/authorized_keys
 -'  2  0  ~/.git/COMMIT_EDITMSG
 -'  1  0  ~/.git/COMMIT_EDITMSG
 -'  32  0  ~/.viminfo
@@ -37,8 +48,109 @@
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
 -'  1  0  ~/first/README.md
+-'  2  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  1  0  ~/.ssh/authorized_keys
+-'  2  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  2  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  1  0  ~/.ssh/known_hosts
+-'  1  0  ~/.ssh/authorized_keys
+-'  2  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  2  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  1  0  ~/.ssh/authorized_keys
+-'  2  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  2  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  0  ~/first/README.md
+-'  1  0  ~/first/README.md
+-'  1  0  ~/.ssh/id_rsa_github
+-'  1  0  ~/.ssh/known_hosts
+-'  1  0  ~/.ssh/authorized_keys
+-'  2  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
 
 # ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/.ssh/config
+	"	3	36
+	^	3	37
+	.	3	37
+	+	3	38
+	+	3	38
+	+	3	37
+
+> ~/.ssh/id_rsa_github.pub
+	"	1	0
+
+> ~/.ssh/id_rsa_github
+	"	1	0
+
+> ~/.ssh/known_hosts
+	"	1	0
+
+> ~/.ssh/authorized_keys
+	"	1	0
 
 > ~/.git/COMMIT_EDITMSG
 	"	2	0
