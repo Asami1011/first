@@ -8,8 +8,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # コマンドライン 項目の履歴 (新しいものから古いものへ):
-:wq
 :q
+:wq
 
 # 検索文字列 項目の履歴 (新しいものから古いものへ):
 
@@ -22,24 +22,33 @@
 # レジスタ:
 
 # ファイルマーク:
-'0  3  36  ~/.ssh/config
-'1  1  0  ~/.ssh/id_rsa_github.pub
-'2  1  0  ~/.ssh/id_rsa_github
-'3  1  0  ~/.ssh/known_hosts
-'4  1  0  ~/.ssh/authorized_keys
-'5  2  0  ~/.git/COMMIT_EDITMSG
-'6  32  0  ~/.viminfo
-'7  1  0  ~/first/README.md
+'0  1  0  /var/www/html/home.php
+'1  52  0  ~/.bash_history
+'2  8  0  /var/www/html/.git/COMMIT_EDITMSG
+'3  8  15  /var/www/html/index.html
+'4  1  9  ~/.git/COMMIT_EDITMSG
+'5  3  36  ~/.ssh/config
+'6  1  0  ~/.ssh/id_rsa_github.pub
+'7  1  0  ~/.ssh/id_rsa_github
+'8  1  0  ~/.ssh/known_hosts
+'9  1  0  ~/.ssh/authorized_keys
 
 # ジャンプリスト (新しいものが先):
+-'  1  0  /var/www/html/home.php
+-'  52  0  ~/.bash_history
+-'  1  0  ~/.bash_history
+-'  8  0  /var/www/html/.git/COMMIT_EDITMSG
+-'  1  0  /var/www/html/.git/COMMIT_EDITMSG
+-'  8  15  /var/www/html/index.html
+-'  1  1  /var/www/html/index.html
+-'  1  9  ~/.git/COMMIT_EDITMSG
+-'  2  0  ~/.git/COMMIT_EDITMSG
 -'  3  36  ~/.ssh/config
 -'  1  0  ~/.ssh/config
 -'  1  0  ~/.ssh/id_rsa_github.pub
 -'  1  0  ~/.ssh/id_rsa_github
 -'  1  0  ~/.ssh/known_hosts
 -'  1  0  ~/.ssh/authorized_keys
--'  2  0  ~/.git/COMMIT_EDITMSG
--'  1  0  ~/.git/COMMIT_EDITMSG
 -'  32  0  ~/.viminfo
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
@@ -48,8 +57,6 @@
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
 -'  1  0  ~/first/README.md
--'  2  0  ~/.git/COMMIT_EDITMSG
--'  1  0  ~/.git/COMMIT_EDITMSG
 -'  32  0  ~/.viminfo
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
@@ -59,8 +66,6 @@
 -'  1  0  ~/first/README.md
 -'  1  0  ~/first/README.md
 -'  1  0  ~/.ssh/authorized_keys
--'  2  0  ~/.git/COMMIT_EDITMSG
--'  1  0  ~/.git/COMMIT_EDITMSG
 -'  32  0  ~/.viminfo
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
@@ -69,8 +74,6 @@
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
 -'  1  0  ~/first/README.md
--'  2  0  ~/.git/COMMIT_EDITMSG
--'  1  0  ~/.git/COMMIT_EDITMSG
 -'  32  0  ~/.viminfo
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
@@ -81,8 +84,6 @@
 -'  1  0  ~/first/README.md
 -'  1  0  ~/.ssh/known_hosts
 -'  1  0  ~/.ssh/authorized_keys
--'  2  0  ~/.git/COMMIT_EDITMSG
--'  1  0  ~/.git/COMMIT_EDITMSG
 -'  32  0  ~/.viminfo
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
@@ -91,8 +92,6 @@
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
 -'  1  0  ~/first/README.md
--'  2  0  ~/.git/COMMIT_EDITMSG
--'  1  0  ~/.git/COMMIT_EDITMSG
 -'  32  0  ~/.viminfo
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
@@ -102,8 +101,6 @@
 -'  1  0  ~/first/README.md
 -'  1  0  ~/first/README.md
 -'  1  0  ~/.ssh/authorized_keys
--'  2  0  ~/.git/COMMIT_EDITMSG
--'  1  0  ~/.git/COMMIT_EDITMSG
 -'  32  0  ~/.viminfo
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
@@ -112,8 +109,6 @@
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
 -'  1  0  ~/first/README.md
--'  2  0  ~/.git/COMMIT_EDITMSG
--'  1  0  ~/.git/COMMIT_EDITMSG
 -'  32  0  ~/.viminfo
 -'  1  0  ~/.viminfo
 -'  1  0  ~/first/README.md
@@ -125,12 +120,44 @@
 -'  1  0  ~/.ssh/id_rsa_github
 -'  1  0  ~/.ssh/known_hosts
 -'  1  0  ~/.ssh/authorized_keys
+-'  32  0  ~/.viminfo
+-'  1  0  ~/.viminfo
+-'  1  9  ~/.git/COMMIT_EDITMSG
 -'  2  0  ~/.git/COMMIT_EDITMSG
--'  1  0  ~/.git/COMMIT_EDITMSG
+-'  3  36  ~/.ssh/config
+-'  1  0  ~/.ssh/config
+-'  1  0  ~/.ssh/id_rsa_github.pub
+-'  1  0  ~/.ssh/id_rsa_github
+-'  1  0  ~/.ssh/known_hosts
+-'  1  0  ~/.ssh/authorized_keys
 -'  32  0  ~/.viminfo
 -'  1  0  ~/.viminfo
 
 # ファイル内マークの履歴 (新しいものから古いもの):
+
+> /var/www/html/home.php
+	"	1	0
+
+> ~/.bash_history
+	"	52	0
+
+> /var/www/html/.git/COMMIT_EDITMSG
+	"	8	0
+	^	8	0
+	.	1	15
+	+	1	15
+
+> /var/www/html/index.html
+	"	8	15
+	^	8	18
+	.	8	15
+	+	8	15
+
+> ~/.git/COMMIT_EDITMSG
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
 
 > ~/.ssh/config
 	"	3	36
@@ -151,12 +178,6 @@
 
 > ~/.ssh/authorized_keys
 	"	1	0
-
-> ~/.git/COMMIT_EDITMSG
-	"	2	0
-	^	2	0
-	.	1	5
-	+	1	5
 
 > ~/.viminfo
 	"	32	0
